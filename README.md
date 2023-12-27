@@ -13,7 +13,7 @@ Welcome to MovieLand, a simple and intuitive React-based web application powered
 
 ## How to Use
 
-1. Clone the repository: `git clone https://github.com/your-username/MovieLand.git`
+1. Clone the repository: `git clone https://github.com/chiragjagani/MovieLand.git`
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 4. Open your browser and visit [http://localhost:3000](http://localhost:3000)
