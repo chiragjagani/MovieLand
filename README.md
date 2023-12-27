@@ -14,7 +14,7 @@ Welcome to MovieLand, a simple and sleek web application built with Vite + React
 - OMDB API
 
 ## Getting Started
-1. Clone the repository: `git clone https://github.com/your-username/MovieLand.git`
+1. Clone the repository: `git clone https://github.com/chiragjagani/MovieLand.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
